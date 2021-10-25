@@ -1,0 +1,19 @@
+๖̶ζ͜͡Crow Bot by Yvelt. 
+
+INSTRUCTIONS : 
+
+1   ) Rend toi dans le fichier appellé : "config.json"
+2   ) Met ton token entre les "" ou il y a ecrit MET TON TOKEN ICI MEC
+2,1 ) --> Pour avoir le token de ton bot rend toi sur https://discord.com/developers/applications et crée un bot
+3   ) Choisie ton prefix ! (prefix par défaut : + )
+4   ) Met la couleur pour tes messages ! Pour trouvé la couleur va sur ce site : https://htmlcolorcodes.com/fr/ et copie colle la couleur que tu veux ! exemple :#FF0000
+5   ) Crée un rôle pour une permission Giveaway et met l'id du rôle à l'endroit : "MET l'ID DU ROLE QUI A LA PERM GIVEAWAY"
+6   ) Fait la même chose avec "giveawayRoleID" !!
+7   ) Lance ton bot avec le fichier appellé start.bat et profite de ton bot !!
+8   ) <prefix>help pour la liste des commandes !
+
+Not working ? Ne fonctionne pas ?
+
+Envoie un message privé à Yvelt.#0001
+
+By Yvelt.#0001
